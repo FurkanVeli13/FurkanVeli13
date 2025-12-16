@@ -1,5 +1,10 @@
 ## Hi there 👋  
-####  Hello I'm recently graduated from Istanbul Gelisim University. My majorty is automotion which means programming PLCs HMIs SCADAs and any other automotion tools. Seeking for a job what a related this field.My goal improving myself on embeded systems so that I registered Autonomous Systems Course in Istanbul Gelisim Universty.          
+
+####  Hello I'm recently graduated from Istanbul Gelisim University.   
+
+My majorty is automotion which means programming PLCs HMIs SCADAs and any other automotion tools. 
+
+Seeking for a job what a related this field.My goal improving myself on embeded systems so that I registered Autonomous Systems Course in Istanbul Gelisim Universty.          
 <!--
 **FurkanVeli13/FurkanVeli13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
